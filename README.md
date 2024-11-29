@@ -1,4 +1,4 @@
-#Generative AI Chat
+# Generative AI Chat
 
 Experience the future of AI interaction with GenAI Chat. This intuitive web interface, powered by the advanced Gemini AI API, allows you to engage in dynamic and informative conversations with artificial intelligence. Simply type your query, and let the AI provide comprehensive and insightful responses.
 
